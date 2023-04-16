@@ -1,0 +1,25 @@
+const employee = {
+
+      name: “Joe”,
+
+      department: “Sales”,
+
+      emergencyContact: {
+
+            name: “Jean”,
+
+            contactInfo: {
+
+                  phone: ‘212-555-2151’,
+
+                  email: ‘jeanx@gmail.com’
+
+            }
+
+      },
+
+      salary: 65000
+      Object.keys(employee)
+
+
+}
